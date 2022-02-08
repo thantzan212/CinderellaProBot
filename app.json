@@ -152,7 +152,7 @@
       "weeb",
       "group",
       "manager",
-      "cinderella"
+      "botnyilay"
       
    ],
    "buildpacks": [
@@ -165,6 +165,6 @@
   ],
    "name": "botnyilay",
    "repository": "https://github.com/thantzan212/botnyilay",
-   "success_url": "https://telegram.dog/CinderellaProBot",
+   "success_url": "https://telegram.dog/botnyilay",
    "logo": "https://telegra.ph/file/511ad504656e712b88235.jpg"
 }
